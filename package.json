@@ -1,0 +1,10 @@
+{
+  "name": "telegram-pangu-bot",
+  "version": "1.0.0",
+  "description": "Telegram 中文排版机器人",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "license": "MIT"
+}
